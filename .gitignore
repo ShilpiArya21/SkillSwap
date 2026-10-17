@@ -1,0 +1,10 @@
+node_modules/
+.env
+.env.*
+!.env.example
+dist/
+.vite/
+*.log
+.DS_Store
+server/appbackup.css
+server/resetTestPassword.js
